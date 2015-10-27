@@ -3,3 +3,4 @@ example
 
 
 change #1
+*** conflict ***
